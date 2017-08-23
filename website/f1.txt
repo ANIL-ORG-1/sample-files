@@ -1,0 +1,2 @@
+this is second line in f1.txt 
+have a good joureny
